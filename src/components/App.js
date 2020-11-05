@@ -25,14 +25,20 @@ class App extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={} className="App-logo" alt="logo" />
+                  <img src={logo} className="App-logo" alt="logo" />
                 </a>
-                <h1>Header 1</h1>
-                <h5>Create DApp From Template</h5>
+                <h1>Starter DApp Template_v1</h1>
+                <h5>DApp Template_v1</h5>
                 <p>
                   Edit <code>src/components/App.js</code> and save to reload.
                 </p>
-                  START
+                <a
+                  className="App-link"
+                  href=""
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  START <u><b>NOW! </b></u>
                 </a>
               </div>
             </main>
